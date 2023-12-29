@@ -6,4 +6,9 @@
     <string name="second_screen">Second Screen</string>
     <string name="button_back">button back</string>
     <string name="third_screen">Third Screen</string>
+    <string name="icon_image">icon_image</string>
+    <string name="name">Name</string>
+    <string name="palindrome">palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">next</string>
 </resources>
