@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_email" type="id" />
+    <item name="tv_lastname" type="id" />
+    <item name="tv_firstname" type="id" />
+    <item name="iv_avatar_url" type="id" />
+    <item name="card_view" type="id" />
+</resources>
